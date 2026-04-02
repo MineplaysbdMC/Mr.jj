@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server":
-    "ip": "MINESMPMC.aternos.me:44092",
-    "port": 44092,
+    "ip": "MINESMPMC.exaroton.me:37845,
+    "port":37845,
     "version": "",
     "try-creative": false
   },

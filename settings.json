@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server":
-    "ip": "MINESMPMC.athernos.me",
+    "ip": "MINESMPMC.aternos.me:44092",
     "port": 44092,
     "version": "",
     "try-creative": false
